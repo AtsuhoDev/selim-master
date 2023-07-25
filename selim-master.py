@@ -216,9 +216,3 @@ while True:
                 print(decor.res)
             except:
                 print(f"{decor.lre}On TOR to continue working")
-
-$ git commit -m "Refactor usability tests.
->
->
-Co-authored-by: NAME <selimbarkat@proton.me>
-Co-authored-by: ANOTHER-NAME <tokyodediscord@gmail.com>
